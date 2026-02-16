@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "COPILOT_PATH": "copilot",
+    "GH_TOKEN": "YOUR_GITHUB_TOKEN",
+    "COPILOT_MODEL": "claude-sonnet-4",
+    "API_KEY": ""
+  },
+  "Host": {
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}
